@@ -1,0 +1,1 @@
+PRIVATE_KEY_FILE: !file:var $env/aws/ec2/private_key

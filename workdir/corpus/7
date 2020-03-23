@@ -1,0 +1,1 @@
+DEFAULT_VAR2: !default='def' foo

@@ -1,0 +1,3 @@
+TestEnvironment:
+  SOME_VAR1: !var $env/sentry/api_key
+  EMPTY_VAR:

@@ -1,0 +1,6 @@
+  SOME_VAR2: !var:file $env/aws/ec2/private_key
+common:
+  SOMETHING_COMMON: should-be-available
+  RAILS_ENV: should-be-overridden
+MissingEnvironment:
+  RAILS_ENV: $env
